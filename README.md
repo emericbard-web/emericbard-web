@@ -1,16 +1,29 @@
-## Hi there 👋
+#  Bonjour, je m'appelle Emeric Bard
 
-<!--
-**emericbard-web/emericbard-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis étudiant en développement web et je construis des projets pour apprendre et démontrer mes compétences techniques.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Compétences
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+##  Projets
+🔹 **Projet Web – Portfolio / Application Web**
+- Projet réalisé dans le cadre de mes études
+- Code structuré et documenté
+- README détaillé disponible dans le dépôt
+
+---
+
+## 🎯 Objectif
+Développer des applications web fonctionnelles, claires et bien documentées.
+
+---
+
+📫 **Contact**
+- GitHub : https://github.com/emericbard-web
