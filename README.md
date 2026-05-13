@@ -14,7 +14,7 @@ Je travaille principalement sur des projets liés à :
 - l’analyse exploratoire de données ;
 - la modélisation supervisée et non supervisée ;
 - la visualisation et l’interprétation de résultats ;
-- la structuration et la documentation de projets analytiques.
+- la structuration et la documentation de projets analytiques 
 
 Mon objectif est de produire des analyses claires, structurées et exploitables, en accordant une importance particulière à la compréhension du problème et au contexte des données.
 
